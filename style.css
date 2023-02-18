@@ -1,0 +1,72 @@
+.lastpage {
+    background-color: black;
+    color: white;}
+.a1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 56px;
+    line-height: 10%;  }
+.a2 {
+    text-align: center;
+    line-height: 10%;
+}
+#prof {  
+ /* display: inline;
+    margin-top:0px;
+    margin-bottom: 0px;
+    margin-left: 200px;
+    margin-right: 0px;
+    border-radius: 50%;
+ */
+    position: absolute;
+    left: 30%;}
+#mika {
+    text-align: center;
+
+}
+#date {
+    text-align: center ;
+}
+.b1 {
+    text-align: center;
+    line-height: 5px;
+}
+.pip {
+ padding-left: 35.3%;
+ line-height: 15px;
+}
+#list {
+   padding-left: 36.2%; 
+   line-height: 30px;
+}
+#fac {
+    padding-left:40%;
+    float: left;
+display: inline ;
+background-color: aqua;
+}
+#dot {
+    border-top: 2px dotted #000;
+    width: 50%;
+
+}
+#fbp {
+    padding-left: 42.5%;
+
+}
+#tw {
+position: absolute;
+left: 55%;
+top: 3000px;
+ /* padding-left: 60%; */
+float: left;
+}
+#eyes{
+    position: absolute;
+    left: 50%;
+    }
+#buddha{
+    padding-left: 293px;
+    width: 854px;
+    height: 570px;
+    /* left: 293px;} */ }
